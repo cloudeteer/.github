@@ -1,4 +1,4 @@
-![plot](../media/header.png)
+![header](../media/header.png)
 
 # Welcome to Cloudeteer 🚀
 
