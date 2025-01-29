@@ -1,3 +1,5 @@
+![plot](../media/header.png)
+
 # Welcome to Cloudeteer 🚀
 
 Welcome to Cloudeteer's GitHub organization! We are your trusted partner in cloud transformation, offering strategic consulting, automation, and reliable cloud operations to help businesses thrive in the digital era.
