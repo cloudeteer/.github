@@ -33,17 +33,17 @@ Here, you'll find tools, templates, and examples designed to standardize Infrast
 ### 🏗️ Public Terraform Modules
 Our Terraform modules help standardize and simplify infrastructure deployment. 
 
-| Repository | Purpose |
-|------------|---------|
-| [terraform-azurerm-ai](https://github.com/cloudeteer/terraform-azurerm-ai) | Azure AI Module |
-| [terraform-azurerm-applicationgateway](https://github.com/cloudeteer/terraform-azurerm-applicationgateway) | Azure Application Gateway Module |
-| [terraform-azurerm-avd](https://github.com/cloudeteer/terraform-azurerm-avd) | Azure AVD Module |
-| [terraform-azurerm-container-app](https://github.com/cloudeteer/terraform-azurerm-container-app) | Azure Container App Module |
-| [terraform-azurerm-helloworld](https://github.com/cloudeteer/terraform-azurerm-helloworld) | Dummy Azure hello-world Module |
-| [terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) | Azure IaC Launchpad Module |
-| [terraform-azurerm-mssql-vm](https://github.com/cloudeteer/terraform-azurerm-mssql-vm) | Azure MSSQL on Virtual Machine Module |
-| [terraform-azurerm-postgresql](https://github.com/cloudeteer/terraform-azurerm-postgresql) | Azure PostgreSQL Module |
-| [terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) | Azure Virtual Machine Module |
+| Repository | Purpose                               |
+|------------|---------------------------------------|
+| [terraform-azurerm-ai](https://github.com/cloudeteer/terraform-azurerm-ai) | AI Module                       |
+| [terraform-azurerm-applicationgateway](https://github.com/cloudeteer/terraform-azurerm-applicationgateway) |  Application Gateway Module      |
+| [terraform-azurerm-avd](https://github.com/cloudeteer/terraform-azurerm-avd) | AVD Module                      |
+| [terraform-azurerm-container-app](https://github.com/cloudeteer/terraform-azurerm-container-app) | Azure Container App Module            |
+| [terraform-azurerm-helloworld](https://github.com/cloudeteer/terraform-azurerm-helloworld) | Dummy Azure hello-world Module        |
+| [terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) | CLOUDETEER IaC Launchpad Module       |
+| [terraform-azurerm-mssql-vm](https://github.com/cloudeteer/terraform-azurerm-mssql-vm) | MSSQL on Virtual Machine Module |
+| [terraform-azurerm-postgresql](https://github.com/cloudeteer/terraform-azurerm-postgresql) | PostgreSQL Module               |
+| [terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) | Virtual Machine Module          |
 
 ### 🛠️ Other Public Repositories
 Beyond Terraform, we maintain additional repositories for automation, governance and our M365-Exporter.
