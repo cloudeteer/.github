@@ -52,8 +52,8 @@ Beyond Terraform, we maintain additional repositories for automation, governance
 
 | Repository | Purpose |
 |------------|---------|
-| [actions](https://github.com/cloudeteer/actions) | GitHub Actions |
-| [terraform-governance](https://github.com/cloudeteer/terraform-governance) | Terraform Governance |
+| [actions](https://github.com/cloudeteer/actions) | GitHub Actions used by us, shared with the community. |
+| [terraform-governance](https://github.com/cloudeteer/terraform-governance) | Documentation, guides, and reusable workflows shared across all our Terraform module repositories. |
 | [m365-exporter](https://github.com/cloudeteer/m365-exporter) | Microsoft 365 Prometheus Exporter |
 
 ---
