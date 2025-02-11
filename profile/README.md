@@ -71,6 +71,7 @@ Stay tuned for our upcoming **Cloudeteer Engineering Blog**, where we will share
 ## 💬 Get in Touch
 - **Website**: [cloudeteer.de](https://www.cloudeteer.de/)
 - **LinkedIn**: [Cloudeteer](https://www.linkedin.com/company/cloudeteer-gmbh/posts/?feedView=all)
+- **LinkedIn**: [Cloudeteer Decoded]((https://www.linkedin.com/showcase/cloudeteer-decoded/?))
 - **Mail**: [go@cloudeteer.de](mailto:go@cloudeteer.de)
 
 We’re excited to collaborate with you in building a better cloud future!
