@@ -37,15 +37,15 @@ Our Terraform modules help standardize and simplify infrastructure deployment.
 
 | Repository | Purpose                               |
 |------------|---------------------------------------|
-| [terraform-azurerm-ai](https://github.com/cloudeteer/terraform-azurerm-ai) | AI Module                       |
-| [terraform-azurerm-applicationgateway](https://github.com/cloudeteer/terraform-azurerm-applicationgateway) |  Application Gateway Module      |
-| [terraform-azurerm-avd](https://github.com/cloudeteer/terraform-azurerm-avd) | AVD Module                      |
-| [terraform-azurerm-container-app](https://github.com/cloudeteer/terraform-azurerm-container-app) | Azure Container App Module            |
-| [terraform-azurerm-helloworld](https://github.com/cloudeteer/terraform-azurerm-helloworld) | Dummy Azure hello-world Module        |
-| [terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) | CLOUDETEER IaC Launchpad Module       |
-| [terraform-azurerm-mssql-vm](https://github.com/cloudeteer/terraform-azurerm-mssql-vm) | MSSQL on Virtual Machine Module |
-| [terraform-azurerm-postgresql](https://github.com/cloudeteer/terraform-azurerm-postgresql) | PostgreSQL Module               |
-| [terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) | Virtual Machine Module          |
+| [terraform-azurerm-ai](https://github.com/cloudeteer/terraform-azurerm-ai) | Azure AI Services with secure defaults, including RBAC and private networking. |
+| [terraform-azurerm-applicationgateway](https://github.com/cloudeteer/terraform-azurerm-applicationgateway) | Azure Application Gateway with enhanced security defaults and simplified configuration. |
+| [terraform-azurerm-avd](https://github.com/cloudeteer/terraform-azurerm-avd) | Bootstrap an Azure Virtual Desktop environment in seconds, perfect for PoCs. |
+| [terraform-azurerm-container-app](https://github.com/cloudeteer/terraform-azurerm-container-app) | Standardized Azure Container App deployment with security defaults like private networking. |
+| [terraform-azurerm-helloworld](https://github.com/cloudeteer/terraform-azurerm-helloworld) | Dummy Azure Hello World module for testing and demonstration. |
+| [terraform-azurerm-launchpad](https://github.com/cloudeteer/terraform-azurerm-launchpad) | CLOUDETEER Launchpad provides all resources to start Terraform deployments with GitHub Actions. |
+| [terraform-azurerm-mssql-vm](https://github.com/cloudeteer/terraform-azurerm-mssql-vm) | Azure MSSQL on a VM, integrated with our popular VM module, featuring simple and automated storage configuration. |
+| [terraform-azurerm-postgresql](https://github.com/cloudeteer/terraform-azurerm-postgresql) | User-friendly Azure Database for PostgreSQL module with security defaults like private networking and RBAC. |
+| [terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) | Our popular Virtual Machine module for Windows and Linux, featuring simplified inputs that automate deployment decisions. |
 
 ### 🛠️ Other Public Repositories
 Beyond Terraform, we maintain additional repositories for automation, governance and our M365-Exporter.
